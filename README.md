@@ -1,7 +1,6 @@
 👋 Hi, I’m @RRighart
-👀 I’m interested in machine learning in the context of computer vision.
-🌱 I’m currently working on object detection using Yolo.
-💞️ I’m looking to collaborate on ...
+👀 I’m interested in data science and machine learning.
+🌱 My current focus is on computer vision applications such as object detection.
 📫 How to reach me : rrighart@googlemail.com
 
 <!---
