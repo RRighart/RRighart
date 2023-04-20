@@ -3,6 +3,8 @@ Hi, I’m @RRighart
 I’m interested in data science and machine learning.
 My current focus is on computer vision and NLP applications.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rrighart&label=Profile%20views&color=0e75b6&style=flat" alt="rrighart" /> </p>
+
 🌐 ![Check out my website](https://www.rrighart.com)
 
 📫 Reach out to me at rrighart@googlemail.com
