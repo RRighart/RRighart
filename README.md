@@ -18,7 +18,7 @@ Some side-projects:
 
 **Feel free to connect:**
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ruthger-righart)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/RuthgerRighart)&nbsp; [![StackOverflow](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/512px-Stack_Overflow_icon.svg.png?20190716190036 width="40" height="40")](https://stackoverflow.com/users/4008657/ruthger-righart) 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ruthger-righart)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/RuthgerRighart)&nbsp; 
 
 **Tools**
 
