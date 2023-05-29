@@ -1,12 +1,11 @@
-Hi, my name is Ruthger Righart.
-I’m interested in data science and machine learning.
+Hello, my name is Ruthger Righart. I’m interested in data science and machine learning.
 My current focus is on computer vision and NLP applications.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rrighart&label=Profile%20views&color=0e75b6&style=flat" alt="rrighart" /> </p>
 
-🌐 [Check out my website](https://www.rrighart.com)
+🌐 [Website](https://www.rrighart.com)
 
-📫 Reach out to me at rrighart@googlemail.com
+📫 [Email](rrighart@googlemail.com)
 
 Some side-projects:
 
@@ -15,10 +14,6 @@ Some side-projects:
 
 ▶️ Detection of product defects [Jupyter Nb](https://www.kaggle.com/code/rrighart/detection-of-product-defects-using-yolov7)
  [ | Demo](https://huggingface.co/spaces/rrighart/product-defects)
-
-**Feel free to connect:**
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ruthger-righart)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/RuthgerRighart)&nbsp; 
 
 **Tools**
 
