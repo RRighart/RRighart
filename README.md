@@ -7,13 +7,15 @@ My current focus is on computer vision and NLP applications.
 
 📫 [Email](rrighart@googlemail.com)
 
-Some side-projects:
+**Side-projects:**
 
 ▶️ The prediction of color tags [Jupyter Nb](https://www.kaggle.com/code/rrighart/the-prediction-of-color-tags)
  [ | Demo](https://huggingface.co/spaces/rrighart/color-tags)
 
 ▶️ Detection of product defects [Jupyter Nb](https://www.kaggle.com/code/rrighart/detection-of-product-defects-using-yolov7)
  [ | Demo](https://huggingface.co/spaces/rrighart/product-defects)
+
+▶️ Stable diffusion [Jupyter Nb](https://www.kaggle.com/code/rrighart/fast-stable-diffusion)
 
 **Tools**
 
