@@ -1,4 +1,4 @@
-Hello, my name is Ruthger Righart. I’m interested in data science and machine learning.
+I am interested in data science and machine learning.
 My current focus is on computer vision and NLP applications.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rrighart&label=Profile%20views&color=0e75b6&style=flat" alt="rrighart" /> </p>
@@ -7,15 +7,15 @@ My current focus is on computer vision and NLP applications.
 
 📫 [Email](rrighart@googlemail.com)
 
-**Side-projects:**
+**Projects:**
 
-▶️ The prediction of color tags [Jupyter Nb](https://www.kaggle.com/code/rrighart/the-prediction-of-color-tags)
+▶️ The prediction of color tags [Notebook](https://www.kaggle.com/code/rrighart/the-prediction-of-color-tags)
  [ | Demo](https://huggingface.co/spaces/rrighart/color-tags)
 
-▶️ Detection of product defects [Jupyter Nb](https://www.kaggle.com/code/rrighart/detection-of-product-defects-using-yolov7)
+▶️ Detection of product defects [Notebook](https://www.kaggle.com/code/rrighart/detection-of-product-defects-using-yolov7)
  [ | Demo](https://huggingface.co/spaces/rrighart/product-defects)
 
-▶️ Stable diffusion [Jupyter Nb](https://www.kaggle.com/code/rrighart/fast-stable-diffusion)
+▶️ Fast stable diffusion [Notebook](https://www.kaggle.com/code/rrighart/fast-stable-diffusion)
 
 **Tools**
 
