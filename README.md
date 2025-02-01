@@ -3,7 +3,7 @@ My current focus is on computer vision and NLP applications.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rrighart&label=Profile%20views&color=0e75b6&style=flat" alt="rrighart" /> </p>
 
-🌐 [Website](https://www.rrighart.com)
+🌐 [Website](https://fr.linkedin.com/in/ruthger-righart)
 
 📫 [Email](rrighart@googlemail.com)
 
